@@ -4,4 +4,4 @@
 
 이 레파지토리는 팀 크루즈를 소개하는 사이트를 제작하려고 생성된 것입니다.
 저희 팀 크루즈에 연락을 하고 싶으시면 아래 오픈채팅 링크로 연락해주시기 바랍니다.
-https://open.kakao.com/o/geb1Zole
+https://open.kakao.com/o/geb1Zole (팀 크루즈 문의 오픈채팅)
